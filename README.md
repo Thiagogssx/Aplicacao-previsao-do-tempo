@@ -1,5 +1,5 @@
 # previsao-do-tempo
-<p>Desenvolvi esse projeto que mostra em tempo real direto de um servidor a previsão do tempo de qualquer cidade do mundo.</p>
+<p>Desenvolvi esse projeto responsivo para acesso desktop e mobile que mostra em tempo real direto de um servidor a previsão do tempo de qualquer cidade do mundo.</p>
 
 <p>Utilizei as tecnologias:
 
